@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-   printf("Never gonna give you up!");
+   int x = 5;
    return 0;
 }
