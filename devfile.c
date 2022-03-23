@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-   printf("Never gonna give you up!");
+   printf("What is love?");
    return 0;
 }
